@@ -28,6 +28,7 @@
     font-size:110%;
     text-align:left;";
   color="#8fca6b";
+  color= "green";
 >
   By Jamie Dormaar, February 16, 2023.
 </p>
