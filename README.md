@@ -26,7 +26,8 @@
     letter-spacing: 1px;
     color:#8fca6b;
     font-size:110%;
-    text-align:left;"
+    text-align:left;";
+  color="#8fca6b";
 >
   By Jamie Dormaar, February 16, 2023.
 </p>
