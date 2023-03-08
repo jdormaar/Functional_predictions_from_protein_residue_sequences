@@ -1,1 +1,32 @@
-# Predicting_functionality_from_protein_residue_sequences
+<h1
+  id = "title";
+  style="color:#4974a5; font-size:250%; text-align:left; border-bottom: 3px solid #4974a5;"
+>
+  A PROTEIN CLASSIFICATION PREDICTOR
+</h1>
+
+<h3
+  id = "title";
+  style="color:#207d06; font-size:220%; text-align:left; border-bottom: 3px solid #207d06;"
+>
+  Using Natural Language Processing (NLP) Machine Learning Methods on the Residue Sequences of Proteins.
+</h3>
+
+<h2
+  id= "";
+  style="color:#8fca6b; border-bottom: 1px solid #207d06;"
+>
+  Lighthouse Labs, Final-Project:
+</h2>
+
+<p
+  id = "by-jamie-dormaar";
+  style="
+    font-family:JetBrains Mono;
+    letter-spacing: 1px;
+    color:#8fca6b;
+    font-size:110%;
+    text-align:left;"
+>
+  By Jamie Dormaar, February 16, 2023.
+</p>
