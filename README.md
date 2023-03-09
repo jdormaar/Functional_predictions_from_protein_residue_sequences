@@ -105,7 +105,7 @@ As always with these things, there remains many adventurous opportunities for im
 1. [RCSB PDB](https://www.rcsb.org/). H.M. Berman, J. Westbrook, Z. Feng, G. Gilliland, T.N. Bhat, H. Weissig, I.N. Shindyalov, P.E. Bourne. rcsb.org
    (2000) The Protein Data Bank Nucleic Acids Research, 28: 235-242.
 1. [worldwide PDB (wwPDB)](www.wwpdb.org) H.M. Berman, K. Henrick, H. Nakamura (2003) Announcing the worldwide Protein Data Bank Nature Structural Biology 10 (12): 980. www.wwpdb.org
-1. https://www.kaggle.com/datasets/shahir/protein-data-set
+1. [Thermo Fisher Scientific Inc](https://www.thermofisher.com/ca/en/home.html). 2006-2023 .https://www.kaggle.com/datasets/shahir/protein-data-set
 
 <!--
 ## REFERENCES
