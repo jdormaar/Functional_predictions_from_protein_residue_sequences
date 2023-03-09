@@ -1,33 +1,26 @@
-<h1
-  id = "title";
-  style="color:#4974a5; font-size:250%; text-align:left; border-bottom: 3px solid #4974a5;"
->
+<h1 id = "title";
+  style="color:#4974a5; text-align:left; border-bottom: 3px solid #4974a5;">
   A PROTEIN CLASSIFICATION PREDICTOR
 </h1>
 
-<h3
-  id = "title";
-  style="color:#207d06; font-size:220%; text-align:left; border-bottom: 3px solid #207d06;"
->
+<h3 id = "title";
+  style="color:#207d06; text-align:left; border-bottom: 2px solid #207d06;">
   Using Natural Language Processing (NLP) Machine Learning Methods on the Residue Sequences of Proteins.
 </h3>
 
-<h2
-  id= "";
-  style="color:#8fca6b; border-bottom: 1px solid #207d06;"
->
+<h2 id = "";
+  style="color:#8fca6b; border-bottom: 1px solid #207d06;">
   Lighthouse Labs:
 </h2>
 
-<p
-  id = "by-jamie-dormaar";
+<p  id = "by-jamie-dormaar";
   style="
     font-family:JetBrains Mono;
     letter-spacing: 1px;
     color:#8fca6b;
     font-size:110%;
     text-align:left;";
->
+    >
   By Jamie Dormaar, February 16, 2023.
 </p>
 
@@ -95,8 +88,8 @@ I found another researchers work using a similar dataset and the same machine le
 > ### FIGURE 3: Confidence Matrix
 
 <p align="center">
-  <img src=./images/conf_matrix.png alt=.missing?.png width="400"/>
-  <img src=./images/conf_matrix_marked.png alt=.missing?.png width="400"/>
+  <img src=./images/conf_matrix.png alt=.missing?.png width="300"/>
+  <img src=./images/conf_matrix_marked.png alt=.missing?.png width="300"/>
 </p>
 As always with these things, there remains many adventurous opportunities for improvement.  The confidence matrix marked above for example, illustrates how the protein classification superfamilies under the labels numbered 54 and 65 are more frequently being miss-classified for the other than they are being classified appropriately.
 
