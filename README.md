@@ -32,7 +32,7 @@
   style="color:#207d06; f text-align:left; border-bottom: 2px solid #207d06;">
   THE PROJECT
 </h2>
-Feel free to follow along in my [Jupyter Notebook](/workbooks/naive_bayes_model.ipynb)
+Feel free to follow along in my [Jupyter Notebook](/workbooks)
 
 Mass Fingerprinting is a process by which protein identification is achieved by the analysis of the peptide and residue fragments from which its composed of. This remarkable and exciting technique promises to enrich widely ranging fields of research from Paleoproteomics to modern day health care and forensic analysis.
 
