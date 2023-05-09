@@ -24,6 +24,8 @@
 </p>
 
 <!--
+Alternate title format - less functional with the in-doc links
+
 ## THE PROJECT
 -->
 
